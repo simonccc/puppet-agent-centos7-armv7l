@@ -1,5 +1,5 @@
 # puppet-centos7-armv7l
-puppetlabs puppet-agent for centos on armv7 ( raspberry pi ) 
+puppetlabs compiled / hacked together puppet-agent for centos on armv7 ( raspberry pi ) 
 
 Tested against puppetserver 5.x
 
@@ -10,5 +10,7 @@ I'm using this with raspbian and docker on a rp4 - ymmv
 clone the repo and copy puppet labs to /opt in your container or whatever
 
 depending on your setup you may need to add a puppet entry to /etc/hosts
+
+You can find the source here https://github.com/puppetlabs/puppet-agent 
 
 
