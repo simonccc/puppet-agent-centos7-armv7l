@@ -1,0 +1,33 @@
+{
+  "name": "puppetlabs-zone_core",
+  "version": "1.0.1",
+  "author": "Puppet Labs",
+  "summary": "Manage Solaris Zones",
+  "license": "Apache-2.0",
+  "source": "https://github.com/puppetlabs/puppetlabs-zone_core",
+  "project_page": "https://github.com/puppetlabs/puppetlabs-zone_core/blob/master/README.md",
+  "issues_url": "https://tickets.puppetlabs.com/projects/MODULES",
+  "dependencies": [
+    {
+      "name": "puppetlabs/zfs_core",
+      "version_requirement": ">= 1.0.0 < 2.0.0"
+    }
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Solaris",
+      "operatingsystemrelease": [
+        "11"
+      ]
+    }
+  ],
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">= 6.0.0 < 7.0.0"
+    }
+  ],
+  "pdk-version": "1.5.0",
+  "template-url": "https://github.com/puppetlabs/pdk-templates",
+  "template-ref": "heads/master-0-g7b5f6d2"
+}

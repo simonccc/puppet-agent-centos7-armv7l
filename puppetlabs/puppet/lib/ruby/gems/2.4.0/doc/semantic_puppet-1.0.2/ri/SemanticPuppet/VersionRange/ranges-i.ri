@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"ranges:ETI"(SemanticPuppet::VersionRange#ranges;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"?Provides read access to the ranges. For internal use only ;TI"@api private;T:
+@fileI")lib/semantic_puppet/version_range.rb;T:0@omit_headings_from_table_of_contents_below0F@I"!SemanticPuppet::VersionRange;TcRDoc::NormalClass0
