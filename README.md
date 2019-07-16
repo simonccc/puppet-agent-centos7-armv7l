@@ -3,7 +3,7 @@ puppetlabs compiled / hacked together puppet-agent for centos on armv7 ( raspber
 
 Tested against puppetserver 5.x
 
-The puppet-agent build process is complex to say the least; so I built this so you don't have to.
+The puppetagent build process is complex to say the least; so I built this so you don't have to.
 
 I'm using this with raspbian and docker with the official centos image on a rp4 - ymmv
 
