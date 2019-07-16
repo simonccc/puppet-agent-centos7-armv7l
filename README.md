@@ -1,5 +1,5 @@
 # puppet-agent-centos7-armv7l
-puppetlabs puppet agent compiled / hacked together puppet-agent for centos on armv7 ( raspberry pi ) 
+puppetlabs puppet -agent compiled / hacked together for centos on armv7 ( eg raspberry pi ) 
 
 The puppetagent build process is complex to say the least; so I built this so you don't have to.
 
