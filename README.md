@@ -1,11 +1,13 @@
 # puppet-agent-centos7-armv7l
-puppetlabs puppet -agent compiled / hacked together for centos on armv7 ( eg raspberry pi ) 
+puppetlabs puppet-agent compiled / hacked together for centos on armv7 ( eg raspberry pi ) 
 
-The puppetagent build process is complex to say the least; so I built this so you don't have to.
+The puppet-agent build process is _complex_ to say the least; so I built this - now you don't have to. 
 
-I'm using this with raspbian and docker with the official centos image on a rp4 - ymmv
+Sorry there is no RPM - I gave up on that. 
 
-Tested against puppetserver 5.x - it reports itself as Puppet v6.7.0
+I'm using this with raspbian w/docker and the official centos image on a rp4. 
+
+Tested against puppetserver 5.x - puppet reports itself as Puppet v6.7.0
 
 clone the repo and copy puppet labs to /opt in your container or whatever
 
