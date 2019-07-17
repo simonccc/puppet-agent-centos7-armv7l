@@ -9,8 +9,6 @@ Tested against puppetserver 5.x - puppet reports itself as Puppet v6.7.0
 
 clone the repo and copy puppet labs to /opt in your container or whatever
 
-depending on your setup you may need to add a puppet entry to /etc/hosts
-
 You can find the source here https://github.com/puppetlabs/puppet-agent 
 
 Someone else has had a shot here: https://blog.thewatertower.org/2018/12/26/puppet-agent-centos-7-and-raspberry-pi/
